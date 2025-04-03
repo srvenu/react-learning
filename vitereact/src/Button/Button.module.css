@@ -1,0 +1,9 @@
+.btn {
+  background-color: hsl(200, 100%, 50%);
+  color: aliceblue;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10%;
+  border: none;
+}
