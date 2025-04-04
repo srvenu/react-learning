@@ -82,3 +82,26 @@
   font-size: 35px;
   cursor: pointer;
 }
+
+.counter-container {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.count-display {
+  font-size: 10em;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.counter-button {
+  background-color: hsl(200, 100%, 50%);
+  color: aliceblue;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  margin-right: 5px;
+  font-weight: bold;
+}

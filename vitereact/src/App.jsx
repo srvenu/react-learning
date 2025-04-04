@@ -2,7 +2,9 @@
 // import UserGreeting from "./UserGreeting";
 // import List from "./List";
 // import Button from "./Button/Button";
-import MyComponent from "./MyComponent";
+// import MyComponent from "./MyComponent";
+// import Counter from "./Counter";
+import MyComponent1 from "./MyComponent1";
 
 function App() {
   // const fruits = [
@@ -33,13 +35,9 @@ function App() {
   //     )}
   //   </>
   // );
-  // return <Button />;
-
-  return (
-    <>
-      <MyComponent />
-    </>
-  );
+  // return <MyComponent />;
+  // return <Counter />;
+  return <MyComponent1 />;
 }
 
 export default App;
