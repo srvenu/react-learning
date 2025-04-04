@@ -2,7 +2,7 @@
   width: 40%;
   height: 50%;
   border: 1px solid hsl(0, 0%, 80%);
-  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+  box-shadow: 5px 5px 5px hwb(0 0% 100% / 0.1);
   padding: 20px;
   margin: 10px;
   text-align: center;
