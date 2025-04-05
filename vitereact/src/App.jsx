@@ -4,7 +4,13 @@
 // import Button from "./Button/Button";
 // import MyComponent from "./MyComponent";
 // import Counter from "./Counter";
-import MyComponent1 from "./MyComponent1";
+// import MyComponent1 from "./MyComponent1";
+// import ColorPicker from "./ColorPicker";
+// import MyComponent3 from "./MyComponent3";
+// import MyComponent4 from "./MyComponent4";
+import ToDoList from "./ToDoList";
+
+// import MyComponent5 from "./MyComponent5";
 
 function App() {
   // const fruits = [
@@ -37,7 +43,12 @@ function App() {
   // );
   // return <MyComponent />;
   // return <Counter />;
-  return <MyComponent1 />;
+  // return <ColorPicker />;
+  // return <MyComponent3 />;
+  // return <MyComponent4 />;
+  // return <MyComponent5 />;
+  return <ToDoList />;
+
 }
 
 export default App;
