@@ -8,7 +8,10 @@
 // import ColorPicker from "./ColorPicker";
 // import MyComponent3 from "./MyComponent3";
 // import MyComponent4 from "./MyComponent4";
-import ToDoList from "./ToDoList";
+// import ToDoList from "./ToDoList";
+
+// import MyComponent6 from "./MyComponent6";
+import MyComponent7 from "./MyComponent7";
 
 // import MyComponent5 from "./MyComponent5";
 
@@ -47,8 +50,9 @@ function App() {
   // return <MyComponent3 />;
   // return <MyComponent4 />;
   // return <MyComponent5 />;
-  return <ToDoList />;
-
+  // return <ToDoList />;
+  // return <MyComponent6 />;
+  return <MyComponent7 />;
 }
 
 export default App;
