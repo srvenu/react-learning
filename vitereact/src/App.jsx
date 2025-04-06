@@ -10,8 +10,10 @@
 // import MyComponent4 from "./MyComponent4";
 // import ToDoList from "./ToDoList";
 
+import DigitalClock from "./DigitalClock";
+
 // import MyComponent6 from "./MyComponent6";
-import MyComponent7 from "./MyComponent7";
+// import MyComponent7 from "./MyComponent7";
 
 // import MyComponent5 from "./MyComponent5";
 
@@ -52,7 +54,8 @@ function App() {
   // return <MyComponent5 />;
   // return <ToDoList />;
   // return <MyComponent6 />;
-  return <MyComponent7 />;
+  // return <MyComponent7 />;
+  return <DigitalClock />;
 }
 
 export default App;
